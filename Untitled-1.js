@@ -1,8 +1,7 @@
-// Author: Hoang Tran (https://fb.com/99.hoangtran)
+// Author: Rushikesh Ankush (https://www.facebook.com/profile.php?id=100093595781421)
 
 // Github verson (1 file .html): https://github.com/HoangTran0410/3DCarousel/blob/master/index.html
 
-// Give me a coffee <3 https://github.com/HoangTran0410/HoangTran0410/blob/main/DONATE.md
 
 
 // You can change global variables here:
